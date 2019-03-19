@@ -28,16 +28,13 @@
 
 *Projects will be created individually by the students as well as edited by the students. *
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
-
-
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+*Ideally for the most efficient use of time we would have at least 5 people on this project. Two small teams of 2 people and an extra person for database development and over seeing the rest of the project. The teams of two would work on front end and back end respectively.*
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+*DAY 1. Team 1 begins work on front end while team two and PM get database started. DAY 2. Team 1 finishes up the actual functionality of the front end space. Team 2 begins work on back end and implentation of datebase. DAY 3. Team 1 touches up the design of front end UI. Team 2 and PM connect front end and back end functionality. DAY 4. Whole team product testing and bug finding. DAY 5. Whole team finishes up final pre release bug fixes.*
 
 ## Other requirements
 
@@ -45,7 +42,7 @@
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+*Using Angular and Express for Front end and backend respectively.*
 
 ## Limitations
 
